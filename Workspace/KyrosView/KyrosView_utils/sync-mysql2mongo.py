@@ -964,13 +964,13 @@ getIcons()
 getMonitor()
 
 print "Guardando coleccion USER"
-saveUsersMongo()
+#saveUsersMongo()
 
 print "Guardando coleccion POI"
-savePoisMongo()
+#savePoisMongo()
 
 print "Guardando coleccion VEHICLE"
-saveVehiclesMongo()
+#saveVehiclesMongo()
 
 print "Guardando coleccion MONITOR"
 monitorTree = Arbol(0)
